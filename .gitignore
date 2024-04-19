@@ -1,5 +1,6 @@
 # files to ignore
-.vs*
+# .vs* switched to the bottom one
+.vs/  
 *.vcx*
 *.sln
 x64
